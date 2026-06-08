@@ -1,0 +1,43 @@
+Run at: 2026-06-08 17:19:49  on host: DS-Home.local
+
+==================== CALENDAR BACKFILL ====================
+Copying upcoming episodes into the master catalog (add-only)…
+
+Backup written: /Users/daleschulz/.local/share/media-search-engine/db-backups/media_search.before-nextep-backfill.20260608-171949.db
+series_episodes rows before: 12190
+upcoming next-episodes missing from the catalog: 0
+Nothing to add — catalog already has every upcoming next episode.
+
+==================== AUTO-START RECON (read-only) ====================
+-- LaunchAgent plists and what each launches --
+  • com.aevum.downloads.plist
+            /usr/local/bin/aevum-downloads.sh
+  • com.google.GoogleUpdater.wake.plist
+            /Users/daleschulz/Library/Application Support/Google/GoogleUpdater/Current/GoogleUpdater.app/Contents/MacOS/GoogleUpdater
+            --wake-all
+            --enable-logging
+            --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+  • com.google.keystone.agent.plist
+  • com.google.keystone.xpcservice.plist
+  • com.media.bgutil-pot-provider.plist
+            /opt/homebrew/bin/node
+            /Users/daleschulz/Library/Application Support/MediaStack/bgutil-ytdlp-pot-provider/server/build/main.js
+  • com.media.processor.plist
+            /usr/bin/python3
+            /Users/daleschulz/Library/Mobile Documents/com~apple~CloudDocs/Apps/AppleOS converter/processor.py
+            --config
+            /Users/daleschulz/Library/Mobile Documents/com~apple~CloudDocs/Apps/AppleOS converter/config.toml
+  • net.filebot.watcher.plist
+            /bin/bash
+            /Users/daleschulz/filebot-watcher.sh
+  • org.user.Jackett.plist
+            /usr/local/jackett/jackett
+            --NoRestart
+-- system-wide launchd items mentioning aevum/media --
+-- any Aevum watcher process + its parent chain (how it was launched) --
+    95607 95604 /opt/homebrew/Cellar/python@3.11/3.11.15_1/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python /Users/daleschulz/Library/Mobile Documents/com~apple~CloudDocs/Apps/Media/Aevum/server/main.py
+    95604     1 /bin/bash /Users/daleschulz/Library/Mobile Documents/com~apple~CloudDocs/Apps/Media/Restart Media.command
+-- login items (apps set to open at login) --
+    NordVPN, Plex Media Server, qBittorrent, Prowlarr, Start Media Search.command
+
+Done. Saved to backfill-result.txt in this folder. You can close this window.
