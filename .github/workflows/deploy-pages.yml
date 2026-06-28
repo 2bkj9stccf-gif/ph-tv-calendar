@@ -1,0 +1,41 @@
+name: Deploy calendar to Pages
+
+# The TV calendar is generated locally on DS-Home (it reads the private Aevum
+# database, which GitHub's runners can't reach) and pushed to main. This
+# workflow just publishes whatever calendar.ics lands on main to GitHub Pages,
+# so https://2bkj9stccf-gif.github.io/ph-tv-calendar/calendar.ics stays current.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enable + configure Pages (no manual toggle needed)
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          cp calendar.ics _site/calendar.ics
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
