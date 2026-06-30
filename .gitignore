@@ -1,0 +1,11 @@
+.DS_Store
+icloud
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# run logs / generated
+*-result.txt
+auto-download-*.txt
