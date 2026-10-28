@@ -9,57 +9,45 @@ X-WR-TIMEZONE:Asia/Manila
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:aevum-tmdb-show-79744-s8e17@ph-tv-calendar
-DTSTAMP:20261027T223003Z
-SUMMARY:🍿 The Rookie — S8E17: Dead Ringer
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260428
-LAST-MODIFIED:20261027T223003Z
-TRANSP:TRANSPARENT
-DESCRIPTION:Nolan and Harper try to help a desperate mother protect her chi
- ld\, while Lt. Grey and Garza continue to work with Monica despite their m
- isgivings.
-END:VEVENT
-BEGIN:VEVENT
 UID:aevum-tmdb-show-202555-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Daredevil: Born Again — S2E7: The Hateful Darkness
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A trial close to Matt Murdock's heart grabs the city's attentio
  n.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E1: Welcome to Widow's Bay!
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:We hope you enjoyed the three-hour ferry to New England's best-
  kept secret! Ignore the warnings about the fog. Everything's fine.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E2: Lodging
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Cherish the historical charm of our local inn\, which Mayor Lof
  tis will prove is safe by spending a night there alone.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E8: Athens: Birth of Democracy
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Follow archaeological investigations into the dramatic origins 
  of democracy in Greece 2\,500 years ago. Mass graves and ancient ruins whe
@@ -68,11 +56,11 @@ DESCRIPTION:Follow archaeological investigations into the dramatic origins
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-76479-s5e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Boys — S5E5: One-Shots
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Tonight at 9/8C a @VoughtNews special report: Treason in Tinsel
  town! Find out which of your favorite Hollywood stars are rumored to be St
@@ -80,11 +68,11 @@ DESCRIPTION:Tonight at 9/8C a @VoughtNews special report: Treason in Tinsel
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-317556-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Twenty Twenty Six — S1E4: Mattheas Sivori/Wooden Condoms
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sarah’s ‘wooden condoms’ gaffe has gone viral at the same
   time as rumours about a high-profile footballer demand an immediate respo
@@ -92,33 +80,33 @@ DESCRIPTION:Sarah’s ‘wooden condoms’ gaffe has gone viral at the same
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-87917-s5e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 For All Mankind — S5E6: No Sudden Moves
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A desperate group of Marsies tries to rectify a dangerous situa
  tion.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-124101-s5e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Hacks — S5E4: Who's Making Dinner?
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ava finds inspiration at a 50th anniversary event for Who's Mak
  ing Dinner?\, while Deborah is reminded of painful memories.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-124101-s5e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Hacks — S5E5: D'Amazing Race
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When The Amazing Race announces a celebrity edition\, DJ holds 
  Deborah to her longstanding promise of partnering up. After Deborah gives 
@@ -127,11 +115,11 @@ DESCRIPTION:When The Amazing Race announces a celebrity edition\, DJ holds
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-241609-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Your Friends & Neighbors — S2E5: Halfway to Invisible
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Barney deals with Ashe's audit of Nick's Strong Ass Gym. Coop a
  nd Jack travel overseas to woo a big investor. Nick throws a housewarming 
@@ -139,33 +127,33 @@ DESCRIPTION:Barney deals with Ashe's audit of Nick's Strong Ass Gym. Coop a
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-32726-s16e12@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Bob's Burgers — S16E12: Children of the Carn
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The kids return to Carniapolis to help an ex-carnie restart wha
  t they think is an innocent prank-war. Teddy sees his therapist at Bob's.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-1434-s24e13@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Family Guy — S24E13: Friend's Best Man
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Stewie becomes engaged to Rupert\, but Brian is upset when he i
  s not chosen as the best man.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-254953-s1e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rooster — S1E9: Ludlow's Fourth Hottest Professor
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Thriving in and out of the classroom\, Greg empowers the hockey
   team before a key game. Meanwhile\, Archie receives feedback on his book 
@@ -174,11 +162,11 @@ DESCRIPTION:Thriving in and out of the classroom\, Greg empowers the hockey
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-79744-s8e18@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Rookie — S8E18: The Bandit
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The team launches a high-stakes search to take down a notorious
   criminal. Meanwhile\, Lucy's leadership is tested\, Wesley tests the boun
@@ -186,43 +174,43 @@ DESCRIPTION:The team launches a high-stakes search to take down a notorious
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-202555-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Daredevil: Born Again — S2E8: The Southern Cross
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The city and its heroes enter an unprecedented era.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E3: The Inaugural Swim
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:It's time for the annual beach opening. Lay out a towel as the 
  mayor "tests the waters." Unrelated: Do not pick up hitchhikers.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-76479-s5e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Boys — S5E6: Though the Heavens Fall
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Available now\, EXCLUSIVELY at @VMCtheaters\, get the new #Deep
  PopcornBucket for only $32.99!
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-317556-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Twenty Twenty Six — S1E5: Balls
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The official unveiling of the new tournament football hits trou
  ble when an online conspiracist makes incendiary claims about the dangers 
@@ -230,22 +218,22 @@ DESCRIPTION:The official unveiling of the new tournament football hits trou
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-87917-s5e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 For All Mankind — S5E7: The Sirens of Titan
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A fatal miscalculation puts the Titan mission in jeopardy. Dev 
  makes a drastic decision.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-124101-s5e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Hacks — S5E6: QuikScribbl
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:With construction on The Diva heading way over budget\, Deborah
   meets with an AI investor\, causing friction between her and Ava. Meanwhi
@@ -254,11 +242,11 @@ DESCRIPTION:With construction on The Diva heading way over budget\, Deborah
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-124101-s5e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Hacks — S5E7: Montecito
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After deciding on a very specific outfit for her MSG show\, Deb
  orah is forced to grovel for the esteemed suit...only to find herself on a
@@ -266,11 +254,11 @@ DESCRIPTION:After deciding on a very specific outfit for her MSG show\, Deb
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262280-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Legends — S1E1: Could You Offer More?
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As drug deaths surge in '90s Britain\, the government turns to 
  a veteran customs investigator to recruit a novice unit for an unprecedent
@@ -278,11 +266,11 @@ DESCRIPTION:As drug deaths surge in '90s Britain\, the government turns to
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262280-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Legends — S1E2: Alliance
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Customs recruit Guy faces tests that threaten to blow his cover
  . Meanwhile\, the team in Liverpool chase the scent of a suspicious bakery
@@ -290,11 +278,11 @@ DESCRIPTION:Customs recruit Guy faces tests that threaten to blow his cover
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262280-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Legends — S1E3: This Is Liverpool
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A volatile alliance puts Guy at the heart of a high-risk smuggl
  ing deal. The Legends in Liverpool embark on a surveillance mission that e
@@ -302,11 +290,11 @@ DESCRIPTION:A volatile alliance puts Guy at the heart of a high-risk smuggl
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262280-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Legends — S1E4: The War on Drugs
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Cracks start to appear in both gangs as tensions\, pressure and
   paranoia run high. Kate looks to exploit a possible weakness in Carter's 
@@ -314,11 +302,11 @@ DESCRIPTION:Cracks start to appear in both gangs as tensions\, pressure and
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262280-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Legends — S1E5: Old Kings
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:While Kate chases a murky trail of corruption\, a potential mee
  ting with a feared drug lord sends Guy\, Bailey and Don on a dangerous ove
@@ -326,11 +314,11 @@ DESCRIPTION:While Kate chases a murky trail of corruption\, a potential mee
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262280-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Legends — S1E6: Legends Never Die
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Betrayal\, distrust and ambition put the entire mission — and
   the Legends — at risk. Can they stop an unprecedented heroin shipment f
@@ -338,23 +326,23 @@ DESCRIPTION:Betrayal\, distrust and ambition put the entire mission — and
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-241609-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Your Friends & Neighbors — S2E6: For Everything Else\, There
   Was Bowling
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Coop and his family navigate a fraught funeral service and wake
  .
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-32726-s16e13@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Bob's Burgers — S16E13: Driving Miss Ragey
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Nat the limo driver helps Linda with her road rage. Meanwhile\,
   the kids and Bob discover both the joys and the risk involved in riding a
@@ -362,11 +350,11 @@ DESCRIPTION:Nat the limo driver helps Linda with her road rage. Meanwhile\,
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-1434-s24e14@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Family Guy — S24E14: Let the Goodtimes Walk
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A powerful sleeping aid medication gives Joe the ability to wal
  k while he is asleep\, but Joe grows concerned when it becomes clear that 
@@ -374,11 +362,11 @@ DESCRIPTION:A powerful sleeping aid medication gives Joe the ability to wal
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-254953-s1e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rooster — S1E10: Songs for Raisa
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After setting boundaries with her parents\, Katie makes a decis
  ion about her marriage to Archie – who has his own talk with Sunny about
@@ -387,22 +375,22 @@ DESCRIPTION:After setting boundaries with her parents\, Katie makes a decis
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E4: Beach Reads
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Make sure you pack a good read for the beach! (We do not recomm
  end self-help books on the island.)
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-71915-s3e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Good Omens — S3E1: The Finale
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Aziraphale\, now Supreme Archangel\, seeks Crowley's help as pl
  ans for the Second Coming take a surprising yet dangerous turn. Can the an
@@ -410,23 +398,23 @@ DESCRIPTION:Aziraphale\, now Supreme Archangel\, seeks Crowley's help as pl
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-76479-s5e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Boys — S5E7: The Frenchman\, the Female\, and the Man Ca
  lled Mother's Milk
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:WARNING: EXERCISE CAUTION WHEN ENTERING SOUNDSTAGE. PERFORMERS 
  MAY BE USING SUPERPOWERS.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-317556-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Twenty Twenty Six — S1E6: Opening Ceremony
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A boycott and politics threaten the opening ceremony after a vi
  sit from its creative director. Meanwhile\, it’s time for Ian to think a
@@ -434,22 +422,22 @@ DESCRIPTION:A boycott and politics threaten the opening ceremony after a vi
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-87917-s5e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 For All Mankind — S5E8: Brave New World
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Titan crew weighs a risky move\, while Mars struggles to ke
  ep up morale.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-124101-s5e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Hacks — S5E8: The Cube
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When she's asked to promote her on-sale ticket date\, Deborah g
  ets creative with a workaround...only to be stymied by another obstacle. M
@@ -458,42 +446,42 @@ DESCRIPTION:When she's asked to promote her on-sale ticket date\, Deborah g
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-241609-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Your Friends & Neighbors — S2E7: Out East
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Coop and Sam attend a wild weekend at Ashe's Hamptons estate. M
  el takes things too far in her battle with the neighbors.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E1: The Untold Want
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Beth and Rip fight to rebuild their lives in Texas.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E2: Earn Another Day
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Beth and Rip work to forge their new life in Rio Paloma.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E1: Episode 1
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Following the events of the previous season\, Rupert shelters C
  ameron whilst Tony\, having survived his injury\, seeks justice. A polo ma
@@ -502,11 +490,11 @@ DESCRIPTION:Following the events of the previous season\, Rupert shelters C
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E2: Episode 2
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Rupert launches his General Election campaign and struggles to 
  balance public ambition and tensions at home. Sarah's career hangs in the 
@@ -514,11 +502,11 @@ DESCRIPTION:Rupert launches his General Election campaign and struggles to
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E3: Episode 3
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A scandalous Corinium exposé sends shockwaves through Rutshire
   and Westminster and Rupert faces mounting pressure on election day over t
@@ -527,11 +515,11 @@ DESCRIPTION:A scandalous Corinium exposé sends shockwaves through Rutshire
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-32726-s16e14@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Bob's Burgers — S16E14: Stuck in the Middle with Hu(go)
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bob is forced to spend time with one of his least favorite peop
  le\, while Tina is entrusted with something very close to Jimmy Junior's h
@@ -539,22 +527,22 @@ DESCRIPTION:Bob is forced to spend time with one of his least favorite peop
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-32726-s16e15@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Bob's Burgers — S16E15: Smellbound
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A bad smell threatens a town tradition\, so Tina\, Gene\, and L
  ouise try to eliminate it themselves.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-1434-s24e15@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Family Guy — S24E15: High School History
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In this three-act parody of prominent historical eras\, the Gri
  ffins take a humorous look at The French Revolution\, the American Civil W
@@ -562,11 +550,11 @@ DESCRIPTION:In this three-act parody of prominent historical eras\, the Gri
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E5: What to Expect on Your Trip
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:We apologize for the curfew. Please remain calm as we determine
   what's happening. On a separate note\, keep your teenagers inside after d
@@ -574,63 +562,63 @@ DESCRIPTION:We apologize for the curfew. Please remain calm as we determine
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-76479-s5e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Boys — S5E8: Blood and Bone
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Easter Sunday. 2PM. Live on @VoughtNews. Bear witness as Homela
  nder reboots the universe.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-87917-s5e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 For All Mankind — S5E9: Sons and Daughters
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Marsies formulate a plan. Kelly faces a major setback.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-124101-s5e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Hacks — S5E9: The Garden
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-241609-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Your Friends & Neighbors — S2E8: I Feel Lost Without Me
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Mel and Tori face the consequences of their actions. Sam tries 
  to end things with Ashe. Coop is caught between a rock and a hard place.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E3: Act of God Business
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Beth fights to secure their business\, Rip confronts a deadl
  y threat.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E10: The Wolf Wedding
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The friends leave the forest to crash Dylan's wedding when Fawn
   admits she still has feelings for him. Will the truth come out... or is i
@@ -638,11 +626,11 @@ DESCRIPTION:The friends leave the forest to crash Dylan's wedding when Fawn
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E1: The Copulatory Tie
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Josh wakes up late from hibernation to find his longtime girlfr
  iend has moved on. Fawn tries dating an older stag. Ray gets himself stuck
@@ -650,11 +638,11 @@ DESCRIPTION:Josh wakes up late from hibernation to find his longtime girlfr
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E2: The Dating Sites
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ray urges a nervous Josh to get back out on the dating scene. F
  awn plays Penelope's wing-deer to help her pick up girls at The Beaver Dam
@@ -662,11 +650,11 @@ DESCRIPTION:Ray urges a nervous Josh to get back out on the dating scene. F
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E3: The Lull
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Josh steals his dad's stash of horny goat weed to help Ray keep
   it up. Penelope consults a psychic. Fawn dates a moose who won't make the
@@ -674,11 +662,11 @@ DESCRIPTION:Josh steals his dad's stash of horny goat weed to help Ray keep
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E4: The Truth About Canada
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A flashback reveals Penelope's brush with forbidden love\, Fawn
  's frustrating attempts to cohabitate — and the moment the two first bec
@@ -686,11 +674,11 @@ DESCRIPTION:A flashback reveals Penelope's brush with forbidden love\, Fawn
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E5: The Hot Mess
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Josh is on guard when Ray's deadbeat mom pops into town to thro
  w him a party. Fawn celebrates her freedom\, and Penelope learns how to do
@@ -698,11 +686,11 @@ DESCRIPTION:Josh is on guard when Ray's deadbeat mom pops into town to thro
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E6: The Horse Who Loved Me
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:While Penelope and Fawn take Zeke to The Boneyard to sow his wi
  ld oats\, Josh goes out with a well-heeled horse who's running from her pa
@@ -710,11 +698,11 @@ DESCRIPTION:While Penelope and Fawn take Zeke to The Boneyard to sow his wi
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E7: The Polycule
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A pair of polyamorous marmots pull Penelope into a throuple. Fa
  wn hits it off with a cute bobcat\, and Ray takes Josh to an orgy with too
@@ -722,22 +710,22 @@ DESCRIPTION:A pair of polyamorous marmots pull Penelope into a throuple. Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E8: The Passion of Raynal Skidski
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ray falls in love with a sweet schoolteacher while Fawn dates a
   bro-goat from hell. Josh and Penelope try living as platonic partners.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-290295-s1e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Mating Season — S1E9: The All-Nighter
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Penelope plans a cozy night in for a heartbroken Ray — but he
   wants a wild night out. Fawn runs into her ex. Josh finds trouble with a 
@@ -745,11 +733,11 @@ DESCRIPTION:Penelope plans a cozy night in for a heartbroken Ray — but he
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E4: Episode 4
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Maud returns to Rutshire\, igniting fury from Declan as Tony dr
  aws her into Corinium. Rupert tries to find a way forward\, only for old s
@@ -757,113 +745,113 @@ DESCRIPTION:Maud returns to Rutshire\, igniting fury from Declan as Tony dr
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E1: There's Something About Morty
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Rick's been lonely\, broh. Morty's worried bout side pieces.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E1: Step into My Office
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:It won't end the way you want it to.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E2: Tread Lightly
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:You're an investigator. Investigate.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E3: Double Cross
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The quicker you prove it\, the quicker they die.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E4: A Mistake I'll Never Make Again
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:I don't know\, I think he's still got it.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E5: Betrayal
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Careful is for stock tips and hot sauce.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E6: Nightmare on a Gurney
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:If you haven't found the answer\, it's because there isn't one.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E7: Nobody's Hero
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:I can't protect you when I'm dead.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-220102-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Spider-Noir — S1E8: The Man in the Mask
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Gee whiz\, what's a down-on-his-luck private investigator to do
  ?
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E6: Our History
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The history of Widow's Bay is a beautiful tale of marriage\, lo
  yalty\, and a love that endures beyond lifetimes. That's all.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E7: Seasickness
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Set out to sea with Mayor Loftis and cherished local figure\, W
  yck! They are attending to some business—best to simply enjoy the voyage
@@ -871,75 +859,75 @@ DESCRIPTION:Set out to sea with Mayor Loftis and cherished local figure\, W
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-87917-s5e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 For All Mankind — S5E10: This Land Is Our Land
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The resilience of Mars is put to the test.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-124101-s5e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Hacks — S5E10: Happy Days Are Here Again
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E1: The Eyes
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Soviet Union reignites the race to the Moon—but this time
  \, with a daring mission to send a woman.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E2: A Bear on a Chain
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Anastasia is thrust onto the world stage. Lyudmilla tries a new
   tactic to get information.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-241609-s2e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Your Friends & Neighbors — S2E9: Propaganda from the Cowardl
  y
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Alliances are tested when Coop\, Barney\, and Nick attend a din
  ner at Ashe's mansion.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E4: Start with a Bullet
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Beth and Rip are pushed to take drastic measures. Beulah tighte
  ns her grip.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E5: Episode 5
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In Ireland\, Declan clashes with Cameron as his marriage unrave
  ls. Back home\, Rupert turns disgrace into opportunity\, securing a prime 
@@ -947,32 +935,32 @@ DESCRIPTION:In Ireland\, Declan clashes with Cameron as his marriage unrave
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E2: Ricks Days\, Seven Nights
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:You try being Rick all the time\, broh.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E8: Your Baggage
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Don't worry about misplaced luggage. Old baggage always resurfa
  ces in Widow's Bay.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E1: Operating
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A health scare sees Jeremy looking for ways to make life at Did
  dly Squat less stressful. A new breed of sheep might help\, but his new pu
@@ -980,11 +968,11 @@ DESCRIPTION:A health scare sees Jeremy looking for ways to make life at Did
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E2: Storming
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Jeremy hatches a plan for the pub's first festive season\, kick
  ing off in style when the Farmer's Dog hosts a gig by one of Ireland's big
@@ -993,11 +981,11 @@ DESCRIPTION:Jeremy hatches a plan for the pub's first festive season\, kick
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E3: Tripping
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:It's the new year and Jeremy decides Diddly Squat needs a bold 
  new direction. Diving headlong into the world of high-tech farming\, he ta
@@ -1005,66 +993,66 @@ DESCRIPTION:It's the new year and Jeremy decides Diddly Squat needs a bold
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E4: Updating
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Autonomous farming arrives at Diddly Squat. Which is just as we
  ll\, because there are problems at the pub\, and with the pigs.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E3: Bad Dancer
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Irina has an unexpected encounter. The Soviets scramble to main
  tain dominance on the Moon.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-241609-s2e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Your Friends & Neighbors — S2E10: The Night of the Hunter
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In the wake of another shocking scandal\, the neighborhood gath
  ers for Father's Day at the country club.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E5: Peaceful Find Peace
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Beth offers Beulah a high‑stakes deal to secure both their fu
  tures.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E6: Episode 6
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A storm descends on Rutshire as a sordid secret is exposed and 
  the night takes a dark turn.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-324451-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ground Up — S1E1: Offensive Pressure
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The new CEO Hugh and the new COO Destiny feel each other out wh
  ile trying to settle on a club song\, a mascot and whether it's appropriat
@@ -1072,33 +1060,33 @@ DESCRIPTION:The new CEO Hugh and the new COO Destiny feel each other out wh
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E3: Rick Fu Hustle
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:You haven't lived till you've chested up at Trader Joe's\, broh
  .
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E9: Emergency Shelter
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Please seek shelter should a centuries-old storm rage toward th
  e island and plunge us into darkness. Enjoy a card game.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E5: Decapitating
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Diddly Squat 2.0 continues to take shape with a new farm office
   and the arrival of a droid. The snails\, meanwhile\, have been getting al
@@ -1106,11 +1094,11 @@ DESCRIPTION:Diddly Squat 2.0 continues to take shape with a new farm office
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E6: Frazzling
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Diddly Squat is basking in a sunny spell. There're baby animals
   aplenty\, the high-tech crops are coming along nicely and there's a big n
@@ -1119,32 +1107,32 @@ DESCRIPTION:Diddly Squat is basking in a sunny spell. There're baby animals
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E4: Dark Forest
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Fame begins to take its toll on Anastasia. Irina tracks a cruci
  al lead.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E6: A Cowboy Saint
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Beth and Beulah chase a deal that could alter everything.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-324451-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ground Up — S1E2: Taking Territory
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:AFL CEO Alistair is in town to help secure a site for the club'
  s new Training Centre. When the RSL rejects the use of the land at the war
@@ -1153,33 +1141,33 @@ DESCRIPTION:AFL CEO Alistair is in town to help secure a site for the club'
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E4: A Ricker Runs Through It
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Remembering passwords is hard\, broh. Special characters\, broh
  .
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-270476-s1e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Widow's Bay — S1E10: We Hope You Enjoyed Your Time!
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:We understand that hard choices had to be made and we may never
   be the same\, but we hope you'll visit again!
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E7: Sickening
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Jeremy busies himself with a project close to his heart\, invit
  ing over a local birdlife expert to offer advice on how Diddly Squat can b
@@ -1187,11 +1175,11 @@ DESCRIPTION:Jeremy busies himself with a project close to his heart\, invit
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-117648-s5e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Clarkson's Farm — S5E8: Reaping
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:With the farm still reeling from its shock TB diagnosis\, there
  's no time to dwell as the harvest arrives. This year's will be like no ot
@@ -1200,31 +1188,31 @@ DESCRIPTION:With the farm still reeling from its shock TB diagnosis\, there
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E5: Bite Your Elbow
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Pressure mounts on all fronts as fear sets in.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E7: Den of Sin
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A lavish 10 Petal celebration unfolds with Beulah at the helm.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-324451-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ground Up — S1E3: Too High
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Destiny is tasked with securing a sponsorship from an Opium pro
  ducer\, Hugh has to counter a Greens campaign about the economics of the s
@@ -1232,11 +1220,11 @@ DESCRIPTION:Destiny is tasked with securing a sponsorship from an Opium pro
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E1: Salt and Sea\, Fire and Blood
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Driven by her faith in Alicent\, Rhaenyra positions herself to 
  take King's Landing while the Triarchy sails to take on Corlys in the Gull
@@ -1244,128 +1232,128 @@ DESCRIPTION:Driven by her faith in Alicent\, Rhaenyra positions herself to
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E5: Jer Bud
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Man's best friend\, broh.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E10: King Sacrifice
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Nils gets a case of the yips\, forcing Martian to pivot.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E1: Kick the Wasp's Nest
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Martian and Owen debrief Coyote. Bosko pressures Henry.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E2: A Bear in Wolf's Clothing
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bosko briefs the State Dept. as Martian questions Naomi's objec
  tivity.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E3: Spymaster
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Martian exploits a means to an end. A call to Antwerp pays divi
  dends.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E4: Dead End
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bosko and Henry talk game plans as Owen takes a deep breath.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E5: Out Cold
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A simple office miscommunication raises red flags in the Chicke
  n Coop.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E6: Officially a Ghost
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bosko is briefed on Snow White and the scope of Viking's game p
  lay.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E7: Drown Him Then Throw Him a Lifejacket
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bosko sets his sights on a strategic flip\; Martian offers up a
   lifejacket.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E8: False Flag Attack
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A stealth move in Bahrain pays dividends. Dr. Blake challenges 
  Naomi.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-219971-s2e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Agency — S2E9: Rogue Cell
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Richardson drops a bombshell on Bosko. Danny fights to give not
  hing away.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-322427-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The American Experiment — S1E1: Freedom
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A young George Washington establishes his military bonafides\, 
  and the American colonies begin to chafe at new taxes imposed by the Briti
@@ -1373,12 +1361,12 @@ DESCRIPTION:A young George Washington establishes his military bonafides\,
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-322427-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The American Experiment — S1E2: Tyranny\, Like Hell\, Is Not
   Easily Conquered
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Thomas Jefferson is tapped to draft the Declaration of Independ
  ence. Led by Washington\, the Continental Army suffers a devastating serie
@@ -1386,12 +1374,12 @@ DESCRIPTION:Thomas Jefferson is tapped to draft the Declaration of Independ
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-322427-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The American Experiment — S1E3: The United States Are Not Un
  ited
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:With the outcome of the war hanging in the balance\, the Americ
  ans deploy Benjamin Franklin's charms to solicit support from Britain's lo
@@ -1399,11 +1387,11 @@ DESCRIPTION:With the outcome of the war hanging in the balance\, the Americ
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-322427-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The American Experiment — S1E4: We the People
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The war is won\, but the "perpetual union" is on the verge of c
  ollapse. Delegates from each state gather to devise an innovative form of 
@@ -1411,11 +1399,11 @@ DESCRIPTION:The war is won\, but the "perpetual union" is on the verge of c
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-322427-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The American Experiment — S1E5: Washington's Warning
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:George Washington steps into the unknown as the nation's first 
  president. Partisanship dawns with an ideological rift between Jefferson a
@@ -1423,123 +1411,123 @@ DESCRIPTION:George Washington steps into the unknown as the nation's first
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E6: Awl in a Sack
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The fallout in Star City causes plans to unravel.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E1: Soda
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A storm hits.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E2: Lamb
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The staff prepares for the day.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E3: Mint
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A new direction.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E4: Ribs
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Family meal.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E5: Raspberries
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A traffic jam.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E6: Focaccia
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A seating chart.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E7: Caramel
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A hard service.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-136315-s5e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Bear — S5E8: The Original Beef of Chicagoland
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After service.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E8: Whiskey Limits
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A gathering storm shakes Rio Paloma\, testing everyone's bonds.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-295780-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Life\, Larry and the Pursuit of Unhappiness: An Almost History
   of America — S1E1: Livingston
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Robert Livingston takes a first pass at the Declaration of Inde
  pendence. Rosa Parks settles in for an uncomfortable bus ride.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-324451-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ground Up — S1E4: Ins and Outs
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Hugh weathers protests against the proposed Training Centre sit
  e and against the club's salmon sponsorship. The President Catherine tries
@@ -1548,65 +1536,65 @@ DESCRIPTION:Hugh weathers protests against the proposed Training Centre sit
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E2: Queen's Landing
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Alicent risks everything to fulfill her end of the bargain\,
   Rhaenyra must decide whether the Iron Throne is worth the cost.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E6: Erickerhead
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Rick's stomach is mad\, broh. But it's all-you-can-eat-and-drin
  k here\, broh!
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E7: Plow Deep
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Loyalties are tested by a new power structure.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-299167-s1e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Dutton Ranch — S1E9: El Padrino
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Rip and Beth confront a danger that threatens everything
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-295780-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Life\, Larry and the Pursuit of Unhappiness: An Almost History
   of America — S1E2: Farewell
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Meriwether Lewis shares news of his upcoming travels with his l
  ong-suffering wife. Larry presses George Washington for answers.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-324451-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ground Up — S1E5: Boundaries
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Symphony Orchestra is unhappy with the proximity of the new
   stadium to their concert hall\, the relocation of a waste treatment plant
@@ -1614,11 +1602,11 @@ DESCRIPTION:The Symphony Orchestra is unhappy with the proximity of the new
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E3: Rhaenyra Triumphant
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Rhaenyra learns the situation in King's Landing is not what she
   anticipated. Unable to locate her enemies\, and with demands coming from 
@@ -1627,32 +1615,32 @@ DESCRIPTION:Rhaenyra learns the situation in King's Landing is not what she
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E7: Mortgully: The Last Rickforest
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Rick and Morty gotta evolve\, broh.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-252107-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star City — S1E8: The Wolves
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A revelation sparks a desperate race against time.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-295780-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Life\, Larry and the Pursuit of Unhappiness: An Almost History
   of America — S1E3: McCarthy
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Larry crashes a party in Boston Harbor. Jonesy makes a stop on 
  the Underground Railroad. The Wright Brothers prepare for their first flig
@@ -1661,11 +1649,11 @@ DESCRIPTION:Larry crashes a party in Boston Harbor. Jonesy makes a stop on
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-324451-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ground Up — S1E6: Contested Possession
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Alistair tells a Hobart Bishop the AFL provides superior moral 
  guidance\, Hugh's dog is kidnapped\, the football department's database is
@@ -1673,31 +1661,31 @@ DESCRIPTION:Alistair tells a Hobart Bishop the AFL provides superior moral
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E4: Tumbleton
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ormund's invasion of Tumbleton forces Rhaenyra into a corner.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E8: Rickuiem Mort a Dream
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Hold still broh. It'll make you nice broh.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E1: The Troubles
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Westies' fragile deal with the Italians unravels after a re
  ckless kidnapping. Flanagan is released from Bellevue and rejoins Roarke's
@@ -1706,11 +1694,11 @@ DESCRIPTION:The Westies' fragile deal with the Italians unravels after a re
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E2: The Houdini
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Roarke and the Westies hide the body of a dead Italian mobster 
  and stage crimes to cover up the murder before Gotti retaliates. Polk pres
@@ -1719,33 +1707,33 @@ DESCRIPTION:Roarke and the Westies hide the body of a dead Italian mobster
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-278624-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lucky — S1E1: No Shortcuts
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After a wild night in Vegas\, Lucky wakes up to discover her wo
  rld has been turned upside down.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-278624-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lucky — S1E2: Make 'em Dance
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Seeking shelter\, Lucky takes refuge with an unsuspecting famil
  y. Priscilla visits Lucky's father.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-292108-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ann Droid — S1E1: Episode 1
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sue’s husband Dave has died\, and her son is moving out to fi
  x his marriage\, so he decides to buy his mum a surprise – a care provid
@@ -1753,12 +1741,12 @@ DESCRIPTION:Sue’s husband Dave has died\, and her son is moving out to fi
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-295780-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Life\, Larry and the Pursuit of Unhappiness: An Almost History
   of America — S1E4: Deepthroat
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bob Woodward receives some questionable intel. Henry Ford is fo
  rced to take a local mensch out for a test drive. Bachelor president James
@@ -1767,33 +1755,33 @@ DESCRIPTION:Bob Woodward receives some questionable intel. Henry Ford is fo
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E5: Unbowed and Unbent
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As the search for Aemond and Vhagar continues\, Daemon attempts
   to control the spiraling situation in King's Landing.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E9: Salute Your Morts
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Morty and Summer go to camp\, broh. Beth and Jerry home alone\,
   broh.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E3: The Starship
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sweeney strikes a deal with Castellano: rob a Colombian disco a
  nd Flanagan walks free. Bridget seeks counsel about Cahill\, while Keenan 
@@ -1801,64 +1789,64 @@ DESCRIPTION:Sweeney strikes a deal with Castellano: rob a Colombian disco a
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-278624-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lucky — S1E3: Read the Room
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Lucky tries to track down Cary—and her money. Agent Rand inve
  stigates Lucky's moves.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-277640-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Pompeii: Out of Time with Tom Hiddleston — S1E1: Tremors
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Tom asks: Will anyone recognize the warning signs before it's t
  oo late?
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-277640-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Pompeii: Out of Time with Tom Hiddleston — S1E2: Eruption
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As chaos erupts\, who will flee\, and who will step up to lead?
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-277640-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Pompeii: Out of Time with Tom Hiddleston — S1E3: Survival
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In the final moments\, what does it truly mean to survive?
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E1: Valles Marineris
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Pike leads the crew into a stellar storm\, sending the Enterpri
  se back 65 million years.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E1: Spoiler: Gary Dies
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After breaking a quantum-interference device\, mild-mannered co
  mic book store owner Stuart Bloom must save the universe from imminent des
@@ -1866,11 +1854,11 @@ DESCRIPTION:After breaking a quantum-interference device\, mild-mannered co
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-292108-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ann Droid — S1E2: Episode 2
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sue offers to work at the charity shop for the day\, but it’s
   a disaster\, thanks to Linda\, and when Sue tries to show up for Michael 
@@ -1878,12 +1866,12 @@ DESCRIPTION:Sue offers to work at the charity shop for the day\, but it’s
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-295780-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Life\, Larry and the Pursuit of Unhappiness: An Almost History
   of America — S1E5: Lincoln
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Larry plays a key role during the showdown at the O.K. Corral. 
  President Lincoln receives advice from his Chief of Staff\, Lawrence Butte
@@ -1892,32 +1880,32 @@ DESCRIPTION:Larry plays a key role during the showdown at the O.K. Corral.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E6: Faceless Men
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:While Rhaenyra and Daemon focus on how best to deal with Ormund
  \, tensions among their neglected allies begin to erupt.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-60625-s9e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rick and Morty — S9E10: Field of Dreams
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Tom Sawyer\, broh.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E4: Favors and Funerals
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Roarke clashes with Sweeney over selling stolen cocaine\, but S
  weeney has his own agenda. As he receives a Hibernian Society award\, Gott
@@ -1926,57 +1914,57 @@ DESCRIPTION:Roarke clashes with Sweeney over selling stolen cocaine\, but S
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E1: Receptive Penile
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Gordon and Ashley are determined to move on from past embarrass
  ments\, but they can't seem to shake their collective baggage.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E2: Clean\, Honest\, Open\, Transpar
  ent Love
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ash reunites with Colin\, and Gordon invites her - along with h
  er eager boyfriend\, David - to his birthday party at Echo Park Brewery.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-278624-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lucky — S1E4: Too Close to See It
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Lucky confronts betrayal\, old grudges take a back seat to a
   deadly chase.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E2: The Griffin Incident
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:La'An\, Spock\, and Kirk get trapped on a mysterious\, long-los
  t Federation ship.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E2: Spoiler: Zack's in
   This One
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Stuart\, Bert\, Denise\, and Barry Kripke find themselves in an
   idyllic\, peaceful Earth...that happens to be controlled by a repressive 
@@ -1984,11 +1972,11 @@ DESCRIPTION:Stuart\, Bert\, Denise\, and Barry Kripke find themselves in an
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-292108-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ann Droid — S1E3: Episode 3
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Linda drags Sue to scatter ashes by the sea\, which sparks a tr
  ip to a dodgy funfair where a rollercoaster ride goes wrong. Meanwhile\, L
@@ -1996,12 +1984,12 @@ DESCRIPTION:Linda drags Sue to scatter ashes by the sea\, which sparks a tr
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-295780-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Life\, Larry and the Pursuit of Unhappiness: An Almost History
   of America — S1E6: Buzz
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After Paul Revere issues his warning\, Larry and his wife prepa
  re to flee. At the Alamo\, Davy Crockett hides a crucial secret. Susan B. 
@@ -2010,22 +1998,22 @@ DESCRIPTION:After Paul Revere issues his warning\, Larry and his wife prepa
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E7: The Dragon in Winter
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Torn between Mysaria and Daemon's visions for her reign\, Rhaen
  yra grows desperate for a sign that she will prevail.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E5: A Right Rose Tree
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sweeney lets Roarke sell cocaine only if he sources it himself\
  , putting him in Gotti's crosshairs as Gotti suspects the Westies are defy
@@ -2034,11 +2022,11 @@ DESCRIPTION:Sweeney lets Roarke sell cocaine only if he sources it himself\
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E3: Monstera
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ash and Gordon attempt to put their past behind them at dinner 
  in a "romantic but not too romantic" restaurant\, while David and Chelsea 
@@ -2046,54 +2034,54 @@ DESCRIPTION:Ash and Gordon attempt to put their past behind them at dinner
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E1: Episode 1
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-278624-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lucky — S1E5: Are We Bad People?
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:On the run again\, Lucky makes a lucrative discovery. Agent Ran
  d devises a plan.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E1: Home
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A few years after Ted leaves Richmond\, some familiar faces vis
  it him in Kansas...or is it Missouri?
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E3: Human Best Friend
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Enterprise crew visits a shore-leave planet that guarantees
   fun in an inebriating atmosphere.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E3: Spoiler: Bert Is M
  agic
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In a world where magic is real\, Bert discovers a gift for sorc
  ery\, while Stuart enlists the help of one of this universe’s most power
@@ -2101,11 +2089,11 @@ DESCRIPTION:In a world where magic is real\, Bert discovers a gift for sorc
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-292108-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ann Droid — S1E4: Episode 4
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sue has invited Michael and Renee to a nice family dinner but i
  s upset when their real motive for coming round is revealed. Linda proves 
@@ -2113,12 +2101,12 @@ DESCRIPTION:Sue has invited Michael and Renee to a nice family dinner but i
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-295780-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Life\, Larry and the Pursuit of Unhappiness: An Almost History
   of America — S1E7: Lawrence
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Larry gets caught up in the moment on VJ Day. After delivering 
  a lengthy speech\, President William Henry Harrison falls ill. Rescuers qu
@@ -2127,22 +2115,22 @@ DESCRIPTION:Larry gets caught up in the moment on VJ Day. After delivering
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-94997-s3e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 House of the Dragon — S3E8: The Treasons at Tumbleton
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Shifting alliances irrevocably reshape the war as Rhaenyra's fo
  rces converge around Tumbleton and both sides vie to gain the upper hand.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E6: Rad Tad
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Roarke gets a risky loan from Ruby Stein to fund a cocaine deal
   with a silver-spooned hotshot from downtown\, only for the deal to implod
@@ -2151,12 +2139,12 @@ DESCRIPTION:Roarke gets a risky loan from Ruby Stein to fund a cocaine deal
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E4: New Beginnings Champagne Breakfa
  st
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Gordon and Ash take stock of themselves - and their romantic re
  lationships - after the tapas dinner\, and Brett attempts to renegotiate h
@@ -2164,75 +2152,75 @@ DESCRIPTION:Gordon and Ash take stock of themselves - and their romantic re
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E2: Episode 2
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E3: Our Flag Means Medical Coverage
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Vicious Space Pirates steal a priceless cargo entrusted to Fry 
  and Bender.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-278624-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lucky — S1E6: Wherever You Go\, There You Are
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Lucky must face her past while planning for her future.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E2: Curiouser and Curiouser!
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ted returns to Richmond to meet the Lady Greyhounds\, but not e
  veryone is glad to see him.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E4: A Case of Chiaroscuro
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Una is mistaken for a virtuous kingpin against a Klingon occupa
  tion.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E4: Spoiler: Stuart Ma
  kes a Wallet
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Stuart questions what's real after landing in a mental hospital
  . Kripke finds himself with a new love interest.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E10: Tigers at the Circus
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Will explores a promising venture outside the shop. Shane and D
  ave look to seal the deal at a ride-and-drive with a questionable tire ven
@@ -2240,11 +2228,11 @@ DESCRIPTION:Will explores a promising venture outside the shop. Shane and D
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e11@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E11: Let's Just See
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Shane and Will are ready to lock in a major partnership\, but P
  hil pumps the brakes on making any decisions until Bonnie works her healin
@@ -2252,11 +2240,11 @@ DESCRIPTION:Shane and Will are ready to lock in a major partnership\, but P
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e12@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E12: It's a Good Day\, West Chester
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:While promoting Valley Forge's next chapter on a local morning 
  TV show\, Will and Shane confront life-changing news and uncertainty at th
@@ -2264,11 +2252,11 @@ DESCRIPTION:While promoting Valley Forge's next chapter on a local morning
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E1: It Often Rhymes
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Will pitches a commercial to boost sales\, but Phil counters wi
  th a more immediate way to cut costs. A familiar face on a dating app catc
@@ -2276,11 +2264,11 @@ DESCRIPTION:Will pitches a commercial to boost sales\, but Phil counters wi
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E2: Secret Shopper
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After a mystery shopper exposes weaknesses across the Valley Fo
  rge chain\, Dave seizes the opportunity to put Will and Shane's shop to th
@@ -2288,11 +2276,11 @@ DESCRIPTION:After a mystery shopper exposes weaknesses across the Valley Fo
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E3: Women's Business
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Hoping to make connections\, Will brings Kilah to a women's net
  working event. Shane talks Cal into blowing off inventory for a night of n
@@ -2300,11 +2288,11 @@ DESCRIPTION:Hoping to make connections\, Will brings Kilah to a women's net
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E4: What's That Like
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Will scrambles to repair his reputation\, Shane's fitness ki
  ck leaves him feeling the burn. Dave joins Phil for a sales meeting with a
@@ -2312,11 +2300,11 @@ DESCRIPTION:As Will scrambles to repair his reputation\, Shane's fitness ki
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E5: Wings
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A brush with mortality offers Shane an unsettling glimpse of hi
  s future. Will reunites with a former coworker whose success stirs up old 
@@ -2324,11 +2312,11 @@ DESCRIPTION:A brush with mortality offers Shane an unsettling glimpse of hi
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E6: The Locked Room
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Phil's relationship woes create headaches at work\, Shane's 
  love life shifts into a higher gear. Meanwhile\, Pete presents Dave with a
@@ -2336,11 +2324,11 @@ DESCRIPTION:As Phil's relationship woes create headaches at work\, Shane's
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E7: Six of Swords
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:To get back on Phil's good side\, Will turns to Bonnie for spir
  itual guidance. Shane takes some newly acquired skills for a spin in the b
@@ -2348,11 +2336,11 @@ DESCRIPTION:To get back on Phil's good side\, Will turns to Bonnie for spir
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E8: Volley
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:While drinking with Cal\, Kilah endures an awkward run-in with 
  her high school teammates. A work dinner pushes Dave's self-control to the
@@ -2360,11 +2348,11 @@ DESCRIPTION:While drinking with Cal\, Kilah endures an awkward run-in with
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247522-s3e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Tires — S3E9: Dog's Out of the Fence
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Shane's love life hits a speed bump as things get complicated w
  ith Jill and Lucy. Will's mysterious absence from work throws a wrench int
@@ -2372,11 +2360,11 @@ DESCRIPTION:Shane's love life hits a speed bump as things get complicated w
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-292108-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ann Droid — S1E5: Episode 5
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Linda persuades Sue to go camping to see an epic meteor storm u
  nder clear skies\, but Linda ends up causing chaos at the campsite\, and M
@@ -2384,22 +2372,22 @@ DESCRIPTION:Linda persuades Sue to go camping to see an epic meteor storm u
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E1: Pilot
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After a fatal shooting\, Green Lantern Hal Jordan and new recru
  it John Stewart set out to prove it was an extraterrestrial event.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E7: A Boy Made of Trouble
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Roarke gets a risky loan from Ruby Stein to fund a cocaine deal
   with a silver-spooned hotshot from downtown\, only for the deal to implod
@@ -2408,23 +2396,23 @@ DESCRIPTION:Roarke gets a risky loan from Ruby Stein to fund a cocaine deal
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E5: Druggy Druggy Sex Party
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A game night at Ash's sharehouse takes an interesting turn\, ju
  st as Gordon shows up to check in on Colin.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E1: Frank Marries a C
  orpse
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The guys help Frank with his cold feet ahead of his wedding to 
  Sam. Dee tries to scare Sam off the nuptials with testimonies from The Wai
@@ -2432,12 +2420,12 @@ DESCRIPTION:The guys help Frank with his cold feet ahead of his wedding to
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E2: Dennis and Dee Do
  n't Get Rich
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Reynolds twins push themselves to the limit to secure Sam's
   transfer of wealth. Charlie and Frank plan a proper memorial for Bonnie d
@@ -2445,57 +2433,57 @@ DESCRIPTION:The Reynolds twins push themselves to the limit to secure Sam's
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-278624-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lucky — S1E7: All Good Things
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Everything is on the line as Lucky navigates an explosive confr
  ontation.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E3: Richmond's Got Talent
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Richmond's shareholders are unsure about a women's team. The co
  aches hold tryouts to fill out their roster.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-243360-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ludwig — S2E1: Episode 1
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:An unusual double confession at the theatre sees John take cent
  re stage\, where he must prove who didn’t commit the crime.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E5: Level-Five Transporter
   Accident
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A transporter accident turns everyone but Spock into puppets as
   pirates invade the ship.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E5: Spoiler: Bert Gets
   Married
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The gang arrives in paradise\, where everyone lives in harmony 
  with nature and each other. Bert finds true love and the machine is broken
@@ -2503,33 +2491,33 @@ DESCRIPTION:The gang arrives in paradise\, where everyone lives in harmony
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-292108-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ann Droid — S1E6: Episode 6
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:With Michael unemployed and living back at home\, he decides it
  ’s time to send Linda back. But can Sue really live without her?
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E2: Trust Fall
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:While John's middling errand ultimately proves eventful\, Hal m
  akes waves in Rushville – which only inspires him to dig deeper.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-286709-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Westies — S1E8: The Irish Goodbye
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Roarke and Sweeney's fallout splits the Westies\, pitting old g
  uard against young. Bridget pushes ahead with the mission but faces shatte
@@ -2538,32 +2526,32 @@ DESCRIPTION:Roarke and Sweeney's fallout splits the Westies\, pitting old g
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E6: Matching Set
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ash is hopeful when Gordon invites her on a weekend away - unti
  l she discovers that Brett and Chiara are joining them on the road trip.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E4: Episode 4
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E3: The Gang Gets Tes
  ted
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Dennis and Dee are diagnosed with ADHD\, and even more shocking
  : Mac isn't. They go back to school for a do-over now that they understand
@@ -2571,40 +2559,40 @@ DESCRIPTION:Dennis and Dee are diagnosed with ADHD\, and even more shocking
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E4: Greyhounds' Day Off
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The coaches must figure out how to break up team cliques. Ted a
  djusts to life outside the locker room.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-251597-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Bookish — S2E1: Momento Mori (1)
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-251597-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Bookish — S2E2: Momento Mori (2)
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-243360-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ludwig — S2E2: Episode 2
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When a ceilidh is cut short by an unwelcome guest\, John is lef
  t in a spin. Ironically\, a murder witnessed by an entire wedding party pr
@@ -2612,23 +2600,23 @@ DESCRIPTION:When a ceilidh is cut short by an unwelcome guest\, John is lef
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E6: Off-Hour
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Enterprise falls into a slipstream that pushes them to a ca
  tastrophic warp threshold.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E6: Spoiler: Corn Is D
  elicious
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Bert and Kripke team up\, Stuart and Denise take a big step 
  forward in a universe that looks and feels normal...with one major differe
@@ -2636,11 +2624,11 @@ DESCRIPTION:As Bert and Kripke team up\, Stuart and Denise take a big step
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E3: OutKast
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When his dad misunderstands a contact attempt from the Guardian
  s\, John is put forth as the next best option to fulfill the Green Lantern
@@ -2649,11 +2637,11 @@ DESCRIPTION:When his dad misunderstands a contact attempt from the Guardian
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E7: Is That All There Is?
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ash attends her Nan's funeral\, where she reunites with her lon
  g-absent father. Gordon and Heavy help their mum move into an aged care ho
@@ -2661,21 +2649,21 @@ DESCRIPTION:Ash attends her Nan's funeral\, where she reunites with her lon
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E5: Episode 5
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E4: 2026: A Virtual I
  nsanity
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Gang's RV breaks down en route to a Jamiroquai concert\, le
  aving them to fend for themselves in a dangerous wasteland of junkies and 
@@ -2683,22 +2671,22 @@ DESCRIPTION:The Gang's RV breaks down en route to a Jamiroquai concert\, le
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E5: Riches of Embarrassment
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The ladies face off against Chelsea. Alice feels the pressure. 
  Rebecca navigates a complicated dynamic.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-243360-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ludwig — S2E3: Episode 3
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Trying to gather intel for Lucy’s interview\, John gets sidet
  racked by the murder of an influencer in the heart of Cambridge. The Taylo
@@ -2706,24 +2694,24 @@ DESCRIPTION:Trying to gather intel for Lucy’s interview\, John gets sidet
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E7: Like Chronitons Throug
  h the Hourglass
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A space trickster traps the Enterprise crew in a soap opera as 
  Pike mourns a lost life.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E7: Spoiler: Dexys Mid
  night Runners Get a Royalty Payment
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:While attempting to steal a new piece of technology from Caltec
  h\, Stuart\, Denise\, Bert\, and Kripke run into some very familiar visito
@@ -2731,11 +2719,11 @@ DESCRIPTION:While attempting to steal a new piece of technology from Caltec
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E1: The Road to Kingdom
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:An Italian gangster\, a royal sheikh and a cash-hungry lord joi
  n Eddie for a shooting party. With his eyes on a peerage\, he needs it to 
@@ -2743,11 +2731,11 @@ DESCRIPTION:An Italian gangster\, a royal sheikh and a cash-hungry lord joi
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E2: There's a Rat in the Kitchen
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Eddie makes a deal with the Mafia in Milan\, while Jack preps f
  or a high-stakes night on the town. But will either be able to deliver on 
@@ -2755,11 +2743,11 @@ DESCRIPTION:Eddie makes a deal with the Mafia in Milan\, while Jack preps f
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E3: Do You Reject Satan?
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The cost of restoring the Halstead estate to its former glory c
  ontinues to spiral — while the farm staff's demand for more pay comes at
@@ -2767,11 +2755,11 @@ DESCRIPTION:The cost of restoring the Halstead estate to its former glory c
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E4: The Bigger Picture
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The House of Lords is split down the middle\, so Eddie looks to
   the church for help. But to get the bishops on side\, he needs to ruffle 
@@ -2779,12 +2767,12 @@ DESCRIPTION:The House of Lords is split down the middle\, so Eddie looks to
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E5: A Suburban A-Road on the Outskirts of 
  Basingstoke
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Eddie faces the violent consequences of his betrayal — and th
  e cost of his loan. Susie and Joe head to Peru to expand the business behi
@@ -2792,11 +2780,11 @@ DESCRIPTION:Eddie faces the violent consequences of his betrayal — and th
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E6: The Bells of San Domenico
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Marco and Eddie mix business with pleasure amid preparations fo
  r the big day. As one guest causes trouble\, will the event end in a weddi
@@ -2804,11 +2792,11 @@ DESCRIPTION:Marco and Eddie mix business with pleasure amid preparations fo
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E7: This Mad Circus
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When Halstead Manor gets overrun with vermin\, it's up to Geoff
   to stamp them out and save his employers. Susie accuses Bobby of tinkerin
@@ -2816,11 +2804,11 @@ DESCRIPTION:When Halstead Manor gets overrun with vermin\, it's up to Geoff
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-236235-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Gentlemen — S2E8: Bring Me the Head
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A furious Eddie plots his revenge — until Susie steps in. As 
  the truth behind the break-in comes to light\, the Horniman family is shak
@@ -2828,11 +2816,11 @@ DESCRIPTION:A furious Eddie plots his revenge — until Susie steps in. As
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E4: The Weenie
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As the 48-hour deadline nears\, John develops a new theory abou
  t the Manhunter's location\, leading him and Hal to run their next move by
@@ -2840,11 +2828,11 @@ DESCRIPTION:As the 48-hour deadline nears\, John develops a new theory abou
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203614-s3e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Colin from Accounts — S3E8: Rum 'n' Raisin
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ash grapples with Gordon's behaviour at Brett's party. Lynette 
  and Lee face trouble with the law. Colin's misadventure with a bag of rais
@@ -2853,21 +2841,21 @@ DESCRIPTION:Ash grapples with Gordon's behaviour at Brett's party. Lynette
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E6: Episode 6
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E5: The Gang Goes to 
  the Ren Faire
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Mac\, Dennis\, and Dee strive to conquest their way onto the Qu
  ilt of Legends at the local Renaissance Faire. Charlie discovers a love of
@@ -2875,132 +2863,132 @@ DESCRIPTION:Mac\, Dennis\, and Dee strive to conquest their way onto the Qu
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E6: Don't Jump Around Much Anymore
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:It's New Year's Eve! The team celebrates big. Rebecca\, Roy\, a
  nd Keeley ring it in with an old friend.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E10: The NS Board
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ned and Detrick try to put out a story\, but it'll require sacr
  ifices\; Esmeralda exposes prejudice.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E1: The Best of Us
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Something unexpected overshadows TTT's wins on the Monday after
   the Ohio Journalism Awards.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E2: Weekend Ned
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ned whisks Mare away for a romantic weekend\; Adam and Adelola 
  are left in charge of the paper.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E3: Hearst's Mistress
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ned and Mare search for a journalistic crusade and find themsel
  ves at her apartment.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E4: Impressing a Cop
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Eager to befriend a cop\, Ned and the team visit the gun range\
  , where Mare stumbles upon a new story.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E5: Dueling Pencils
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ned and Mare co-host a podcast\; Esmeralda pays the price for e
  mbarrassing the company.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E6: 125 Years Young
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The paper celebrates its 125th birthday and gets slammed\; Esme
  ralda gets creative with HR training.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E7: Tornado Alert
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When a tornado threatens Toledo\, TTT debuts push notifications
  \; Travis and Adelola storm chase.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E8: Secret Team
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ned forms a secret team to investigate a possible crime by powe
  rful advertisers.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-253941-s2e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Paper — S2E9: Who's Marv Marving?
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ned tries to protect Mare from rumors\; Esmeralda interviews to
   be the consort of a powerful man.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-243360-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ludwig — S2E4: Episode 4
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:John is snookered by Cambridge’s latest murder\, and an unexp
  ected phone call tests his patience even further. A daunting afternoon awa
@@ -3008,23 +2996,23 @@ DESCRIPTION:John is snookered by Cambridge’s latest murder\, and an unexp
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E8: Orders of Magnitude
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Enterprise is commandeered by Admiral Reeger to track down an a
  lien ship.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E8: Spoiler: We're as 
  Confused as You Are
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After being thrust into a world that is perpetually at war\, St
  uart must complete his mission before he and the rest of the gang can flee
@@ -3032,11 +3020,11 @@ DESCRIPTION:After being thrust into a world that is perpetually at war\, St
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E5: Lights Out
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As the Macon family's history unravels\, Rushville mobilizes in
   the face of the escalating threat. As John is placed in an impossible pos
@@ -3045,21 +3033,21 @@ DESCRIPTION:As the Macon family's history unravels\, Rushville mobilizes in
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E7: Episode 7
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E6: The War on Alcoho
  l
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Gang takes the trend against drinking into their own hands.
   Dennis\, Dee\, and Frank look to recruit white collar suits for happy hou
@@ -3068,22 +3056,22 @@ DESCRIPTION:The Gang takes the trend against drinking into their own hands.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E7: Yes & Baby
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Alice and Ted try stepping outside their comfort zones. Zelda h
  elps with a new problem at Richmond.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E9: The Battle to Breathe
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Once a death sentence\, cystic fibrosis now faces an apparent m
  iracle cure. Follow the decades-long scientific quest\, fueled by desperat
@@ -3092,22 +3080,22 @@ DESCRIPTION:Once a death sentence\, cystic fibrosis now faces an apparent m
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95480-s6e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Slow Horses — S6E1: Circle of Life
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:River braces for his grandfather's funeral. Lamb looks into the
   death of an ex–Slow Horse.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2190-s29e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 South Park — S29E1: South American Biker Gangs
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When e-bikes arrive in South America\, the boys take over the s
  treets and the parents of South America can hardly recognize South America
@@ -3115,11 +3103,11 @@ DESCRIPTION:When e-bikes arrive in South America\, the boys take over the s
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-243360-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ludwig — S2E5: Episode 5
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When a sushi bar turns into a crime scene\, an unlikely witness
   helps John in both of his investigations. Russell takes matters into his 
@@ -3127,23 +3115,23 @@ DESCRIPTION:When a sushi bar turns into a crime scene\, an unlikely witness
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E9: Once La'an a Time
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:We return to the Elysian Kingdom\, but this time on a real fant
  asy planet.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E9: Spoiler: We Couldn
  't Get Green Lantern
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After finding themselves trapped in a comic book\, Stuart\, Den
  ise\, Bert\, and Kripke must enlist the help of a superhero – and avoid 
@@ -3151,11 +3139,11 @@ DESCRIPTION:After finding themselves trapped in a comic book\, Stuart\, Den
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E1: I Wanna Be Your Dog
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Maeve and Conrad go to the dogs\, leaving Harry to deal with th
  e messy fallout\; Jan makes a startling confession\; Kevin and Seraphina b
@@ -3163,11 +3151,11 @@ DESCRIPTION:Maeve and Conrad go to the dogs\, leaving Harry to deal with th
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E6: Bad Optics
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Now in business with his brother Marcus\, John is on the verge 
  of landing a major investor for his innovative take on panic rooms when an
@@ -3176,32 +3164,32 @@ DESCRIPTION:Now in business with his brother Marcus\, John is on the verge
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E8: Episode 8
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E9: A New New York Yankee in King Elfo's Court
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A time-machine failure sends Fry sideways in time to a strangel
  y familiar medieval land.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E7: Gilligan's Island
  : A Conspiracy Theorist's Paradise
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Mac and Charlie drink the proverbial Kool-Aid while trying to u
  ncover the mystery of why 'Gilligan's Island' never made it to 100 episode
@@ -3209,44 +3197,44 @@ DESCRIPTION:Mac and Charlie drink the proverbial Kool-Aid while trying to u
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E1: On the Road
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A surprise visit from the Harrelsons goes sideways when Matthew
  's mom drops a bombshell.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E2: The Hunt
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Matthew takes his son Wyatt on his first hunting trip while Woo
  dy follows a trail of a different kind.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E8: Follow the Anger
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Lady Greyhounds navigate a difficult setback. Roy and Keele
  y prepare for the Wall of Legends.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E10: Knowledge Keepers
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:For millennia\, Indigenous peoples in North America have practi
  ced a unique form of science. From navigating the featureless Arctic to bu
@@ -3255,22 +3243,22 @@ DESCRIPTION:For millennia\, Indigenous peoples in North America have practi
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95480-s6e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Slow Horses — S6E2: Daddy Issues
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The reemergence of Frank Harkness and a suspicious string of mu
  rders put Lamb and team on high alert.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-243360-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ludwig — S2E6: Episode 6
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:With a death that strikes close to home\, all avenues point to 
  one suspect. Has Kemper made a wrong move\, and will Ludwig ensure that ju
@@ -3278,34 +3266,34 @@ DESCRIPTION:With a death that strikes close to home\, all avenues point to
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-103516-s4e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Star Trek: Strange New Worlds — S4E10: Tomorrow's Enterprise
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A time ripple damages the Enterprise\, forcing young and old Uh
  ura to cooperate and fix the timeline.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-287620-s1e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stuart Fails to Save the Universe — S1E10: Spoiler: Filmed B
  efore a Live Studio Audience
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The gang suddenly finds themselves back in the comic book store
   – but where is that laughter coming from?
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E2: Song 2
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:With Conrad's self-control slipping\, Maeve makes plans of her 
  own while Jan hits Harry with a hard truth\; smelling blood\, Frankie and 
@@ -3313,11 +3301,11 @@ DESCRIPTION:With Conrad's self-control slipping\, Maeve makes plans of her
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E7: The Jordan Boys' Legacy
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Finding themselves on another planet\, Hal and John must put as
  ide their fractured past to solve a murder. Along their journey\, both men
@@ -3326,11 +3314,11 @@ DESCRIPTION:Finding themselves on another planet\, Hal and John must put as
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-456-s38e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Simpsons — S38E1: The Children's Book Job
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A British children's book author comes to Springfield to give a
   talk at Springfield Elementary School. Homer is tasked with picking her u
@@ -3338,23 +3326,23 @@ DESCRIPTION:A British children's book author comes to Springfield to give a
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-615-s11e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Futurama — S11E10: Final Ending: The Last Conclusion
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When Fry sneaks into a PG-13 movie as a kid\, it results in sho
  cking consequences a thousand years in the future.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E8: Mac and Dennis Te
  ar Their ACLs
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After a Christmas card catastrophe\, Charlie nurses a bedridden
   Mac and Dennis and deliberates on which one is the originator of all thei
@@ -3363,11 +3351,11 @@ DESCRIPTION:After a Christmas card catastrophe\, Charlie nurses a bedridden
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-218344-s4e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Blue Lights — S4E1: Eyes
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The section is challenged by escalating tensions at a community
   event\, while the investigation into Dana Morgan’s drug partnership wit
@@ -3375,33 +3363,33 @@ DESCRIPTION:The section is challenged by escalating tensions at a community
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E3: Little Woody
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When Ma Mac wants the Harrelsons out\, Woody hatches a harebrai
  ned plan to buy time.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E9: Mae Rides the Bus
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Morale is low\, but the stakes have never been higher. Mae join
  s the team on the road. Keeley has news.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e11@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E11: Stone Age Masterpiece
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Hidden in the gorges of Southern France lies one of the most st
  unning decorated caves ever discovered: Chauvet\, 'the Sistine Chapel of P
@@ -3410,33 +3398,33 @@ DESCRIPTION:Hidden in the gorges of Southern France lies one of the most st
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95480-s6e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Slow Horses — S6E3: Resurrection
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ex–Slow Horses return to the fold as assassins close in. Tave
  rner faces the fallout of her TV interview.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2190-s29e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 South Park — S29E2: Billionaire Weenietown
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Butters is unhappy with the data centers that the billionaires 
  are building in our backyards.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E3: Bonzo Goes to Bitburg
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Maeve probes Conrad for secrets\, positioning herself against t
  hreats old and new. As Frankie forces a high-stakes sit-down\, Kevin and H
@@ -3444,11 +3432,11 @@ DESCRIPTION:Maeve probes Conrad for secrets\, positioning herself against t
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95350-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Lanterns — S1E8: Dirt and Stars
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As John and Hal draw closer to the truth\, John comes to an une
  xpected understanding with Sheriff Kane... just as a chilling new discover
@@ -3456,11 +3444,11 @@ DESCRIPTION:As John and Hal draw closer to the truth\, John comes to an une
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-456-s38e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Simpsons — S38E2: Diary of a Chimpy Kid
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bart and Lisa adopt an abandoned baby chimp and clash over thei
  r surprisingly different parenting styles. When the chimp is abducted by a
@@ -3468,12 +3456,12 @@ DESCRIPTION:Bart and Lisa adopt an abandoned baby chimp and clash over thei
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E9: Frank's Team: A D
  ark Day for Baseball
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In an effort to clean up their image\, Paddy's sponsors a local
   Little League team. But when The Gang spots softness in their franchise\,
@@ -3482,43 +3470,43 @@ DESCRIPTION:In an effort to clean up their image\, Paddy's sponsors a local
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-218344-s4e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Blue Lights — S4E2: Numbers
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In the wake of the attack on Amira\, Grace’s determination pu
  ts her in danger\, while Mo spirals further with violent consequences.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E4: The Band
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Woody and Matthew put their musical talents to the test as Oliv
  e's investigation ramps up.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-97546-s4e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ted Lasso — S4E10: Being Alive
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Big changes in bunches.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E1: Jungle Classroom
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Gregory and Ava adjust to a new dynamic\, while Barbara turns t
  o Jacob for help. Meanwhile\, Janine gives her classroom a makeover\, and 
@@ -3526,11 +3514,11 @@ DESCRIPTION:Gregory and Ava adjust to a new dynamic\, while Barbara turns t
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e12@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E12: Space Wars
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:An arms race is escalating above us\, as military powers vie fo
  r control of space. Discover how satellites we rely on are vulnerable to a
@@ -3539,22 +3527,22 @@ DESCRIPTION:An arms race is escalating above us\, as military powers vie fo
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95480-s6e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Slow Horses — S6E4: Lost & Found
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Lamb tries figuring out who Frank is working for. Sid\, River\,
   and Coe do everything to evade the hit squad.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E4: Blank Curtain
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Harrigans reel from an unexpected turn of events\, triggeri
  ng Harry to do damage control before police scrutiny closes in. Maeve's un
@@ -3563,12 +3551,12 @@ DESCRIPTION:The Harrigans reel from an unexpected turn of events\, triggeri
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2710-s18e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 It's Always Sunny in Philadelphia — S18E10: The Guys Have a 
  Sleepover
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Blinded from LASIK surgery\, Dee pleads for the guys to spend t
  he night to keep her safe from neighborhood crime\, but they listen to the
@@ -3576,11 +3564,11 @@ DESCRIPTION:Blinded from LASIK surgery\, Dee pleads for the guys to spend t
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-218344-s4e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Blue Lights — S4E3: Everybody Knows
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Gerry’s murder trial begins\, Mo’s unstable mental healt
  h ignites a struggle between the state and justice. Shane has a tense stan
@@ -3588,44 +3576,44 @@ DESCRIPTION:As Gerry’s murder trial begins\, Mo’s unstable mental healt
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E5: Valentine's Day
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Things quickly spiral out of control for Matthew and Woody afte
  r forgetting Valentine's Day.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E1: No Strings
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Vision embarks on a journey of self-discovery and finds himself
   haunted by a deadly force.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E2: Theseus
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Vision comes face to face with his assailant while investigatin
  g whether Tommy Shepherd is his son.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E2: Check-Ins
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Gregory juggles the demands of his two roles\, while Jacob and 
  Melissa struggle to compromise. Meanwhile\, Barbara manages a delicate sit
@@ -3633,11 +3621,11 @@ DESCRIPTION:Gregory juggles the demands of his two roles\, while Jacob and
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e13@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E13: Evolution: Brain Power
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Brains might be the most complex structures on our planet – s
  o how did evolution build them? To find out\, rewind the clock three billi
@@ -3646,54 +3634,54 @@ DESCRIPTION:Brains might be the most complex structures on our planet – s
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95480-s6e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Slow Horses — S6E5: Sayonara
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:River goes after Sid. Lamb sets his sights on Cantor. Taverner 
  carries on with a treacherous deal.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2190-s29e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 South Park — S29E3: You Like That On Your Face
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When aura battles take over South America\, Kyle tries to help 
  his little brother not be cringe.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E1: The Rupidoop
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Lee's acceptance speech for Citizen Journalist of the Year leav
  es quite an impression.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E2: Whiskey Bent and Hell Bound
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Chili spills the beans.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E1: Windsor
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:On an unplanned stopover at Windsor Castle\, Kate grows wary of
   Hal and Grace's dynamic as she tries to contain the fallout from their co
@@ -3701,11 +3689,11 @@ DESCRIPTION:On an unplanned stopover at Windsor Castle\, Kate grows wary of
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E2: Redcoats
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A shocking security breach sends the administration into crisis
   as Hal assumes new duties. Trowbridge launches a manhunt\, and Kate looks
@@ -3713,11 +3701,11 @@ DESCRIPTION:A shocking security breach sends the administration into crisis
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E3: The Typo
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:A budgetary snag threatens to torpedo negotiations\, with costl
  y implications for the US. Stuart and Eidra get personal as they weigh the
@@ -3725,11 +3713,11 @@ DESCRIPTION:A budgetary snag threatens to torpedo negotiations\, with costl
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E4: Pagliacci
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:After Hal drops a bombshell that throws the UK alliance into je
  opardy\, Kate faces mounting pressure to control the damage by any means n
@@ -3737,22 +3725,22 @@ DESCRIPTION:After Hal drops a bombshell that throws the UK alliance into je
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E5: Special Envoy
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Kate contends with her complicity in a stunning political shake
  -up\, while a disenchanted Todd explores his options across the pond.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E6: The Dead
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When a dangerous adversary makes its move\, Grace issues a hard
  -line threat to the prime minister\, forcing Kate to reckon with her role 
@@ -3760,11 +3748,11 @@ DESCRIPTION:When a dangerous adversary makes its move\, Grace issues a hard
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E7: Phony Negroni
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Personal and political lives collide — and damaging secrets s
  urface — when Kate and Hal join Grace and Todd in Italy ahead of the G7 
@@ -3772,11 +3760,11 @@ DESCRIPTION:Personal and political lives collide — and damaging secrets s
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-203857-s4e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Diplomat — S4E8: Warships
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:At a meeting of world leaders\, a diplomatic breakdown edges th
  e US closer to an international crisis — and compels Kate to make a seis
@@ -3784,11 +3772,11 @@ DESCRIPTION:At a meeting of world leaders\, a diplomatic breakdown edges th
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E5: Birdland
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Conrad declares war\, stacking bodies and turning the Cotswolds
   into a fortress\; Maeve plays puppet-master\, sending Eddie on a mission 
@@ -3797,12 +3785,12 @@ DESCRIPTION:Conrad declares war\, stacking bodies and turning the Cotswolds
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-456-s38e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Simpsons — S38E3: Treehouse of Horror Presents: The Reve
  ngening
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:All hell breaks loose on Halloween when a killer comes to Sprin
  gfield and hacks their way through town. No Simpson is safe from... THE RE
@@ -3810,55 +3798,55 @@ DESCRIPTION:All hell breaks loose on Halloween when a killer comes to Sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-218344-s4e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Blue Lights — S4E4: So Far
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sandra reflects on a secret Gerry once shared with her and real
  ises that she is in possession of volatile information.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E6: The Dance
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Wyatt asks Kai to the school dance\, where Matthew and Woody tr
  y to play it cool as chaperones.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E3: Reboot
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Vision and Tommy Shepherd join forces in order to survive while
   a terrifying killer strikes again.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E4: Malware
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:As Vision confronts a new enemy\, Ultron and Tommy Shepherd com
  e face to face.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E3: Tryouts
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The step team tries out for a major competition\, Melissa and B
  arbara take a special ed certification course\, while Janine\, Gregory and
@@ -3866,11 +3854,11 @@ DESCRIPTION:The step team tries out for a major competition\, Melissa and B
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e14@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E14: Evolution: Need to Feed
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The relentless pursuit of energy\, the very act of eating\, has
   profoundly shaped life on Earth. Follow the evolution of the bat to disco
@@ -3879,32 +3867,32 @@ DESCRIPTION:The relentless pursuit of energy\, the very act of eating\, has
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-95480-s6e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Slow Horses — S6E6: Judgement Day
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The safe house becomes unsafe as Lamb and Taverner finally join
   forces.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E3: Truth's Easy
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:It's not a "Ren Fair."
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E6: A Different Corner
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Licking wounds and turning on each other after fleeing Frankie'
  s assault\, Seraphina goes all in\, pitching the Harrigans on a global pow
@@ -3912,11 +3900,11 @@ DESCRIPTION:Licking wounds and turning on each other after fleeing Frankie'
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-456-s38e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Simpsons — S38E4: Treehouse of Horror XXXVII
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In this year's extra-scary\, ultra-spooky Treehouse of Horror\,
   Marge gets a horrifying new perspective on marriage\; Bart and Santa's Li
@@ -3925,62 +3913,62 @@ DESCRIPTION:In this year's extra-scary\, ultra-spooky Treehouse of Horror\,
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-218344-s4e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Blue Lights — S4E5: Ghosts
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sandra enlists help to expose Gerry’s secrets\, while Tommy a
  nd Shane inch closer to exposing the drug pipeline.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E7: The Interview
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Matthew's big announcement sends shock waves as Woody finds him
  self caught in a lie.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E5: Firewall
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E6: Deadlock
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E4: Halloween Party
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Ava hosts an exclusive Halloween party\, and Janine and Jacob g
  et suspicious of Gregory.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e15@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E15: Evolution: Body Builders
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Earth teems with life in every imaginable form – creatures th
  at walk\, swim\, slither\, and fly. Some grow to astonishing size\, like t
@@ -3989,32 +3977,32 @@ DESCRIPTION:Earth teems with life in every imaginable form – creatures th
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2190-s29e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 South Park — S29E4: Guinea Pig On A Stick
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:When South America’s beef becomes highly prized and sought af
  ter\, the four boys fight to keep it in local hands.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E4: Raw Milk
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Lee goes to a hog contest.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E7: Ace of Spades
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The Harrigans lock down the Cotswolds and roll back into London
   to shake the tree - buying loyalty with cash\, threats and broken fingers
@@ -4023,11 +4011,11 @@ DESCRIPTION:The Harrigans lock down the Cotswolds and roll back into London
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-456-s38e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Simpsons — S38E5: Testing 1-2-3
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:In what she argues is not an attempt to get extra time on tests
  \, Lisa has herself evaluated for three types of neurodiversity... which r
@@ -4036,11 +4024,11 @@ DESCRIPTION:In what she argues is not an attempt to get extra time on tests
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-218344-s4e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Blue Lights — S4E6: The Line
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Life is in the balance after the explosion at Katie’s house\,
   while Gerry’s evidence on state collusion is released. The section race
@@ -4048,58 +4036,58 @@ DESCRIPTION:Life is in the balance after the explosion at Katie’s house\,
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-250203-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Brothers — S1E8: On the Road...Again
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:The gloves come off\, the truth comes out—and nothing will ev
  er be the same.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E1: Episode 1
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E2: Episode 2
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E7: Immolation
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E5: Courtney
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e16@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E16: Evolution: The Mating Game
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Sex changed everything – evolutionarily speaking\, that is. B
  y shuffling the genetic deck it unleashed variation\, fueling diversity an
@@ -4107,131 +4095,131 @@ DESCRIPTION:Sex changed everything – evolutionarily speaking\, that is. B
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E5: A Dog with Two Tails
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:An old friend returns a favor.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-225385-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Black Doves — S2E1: Episode 1
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E8: Episode 8
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262352-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Assassin — S2E1: Episode 1
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262352-s2e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Assassin — S2E2: Episode 2
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262352-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Assassin — S2E3: Episode 3
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262352-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Assassin — S2E4: Episode 4
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262352-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Assassin — S2E5: Episode 5
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-262352-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Assassin — S2E6: Episode 6
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-456-s38e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Simpsons — S38E6: The Kosmic Kruiser
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Bart and Lisa become trapped in an abandoned immersive theme pa
  rk experience.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E3: Episode 3
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-213375-s1e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 VisionQuest — S1E8: Forever
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E6: Competition
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-3562-s53e17@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 NOVA — S53E17: Evolution: On the Run
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Run. Leap. Swim. Pounce. Slither. Fly. Life moves in countless 
  ways – but it wasn’t always this way. When animals first emerged\, the
@@ -4239,327 +4227,327 @@ DESCRIPTION:Run. Leap. Swim. Pounce. Slither. Fly. Life moves in countless
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E7: Episode 7
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E8: Episode 8
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E9: Episode 9
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2190-s29e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 South Park — S29E5: Episode 5
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E1: Episode 1
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e2@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E2: Episode 2
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e3@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E3: Episode 3
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E4: Episode 4
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E6: Leaving and Coming Back
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:Lee and Frog take a trip down memory lane.
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E9: Episode 9
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-456-s38e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Simpsons — S38E7: Dream Scenari-Moe
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e4@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E4: Episode 4
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E10: Episode 10
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E5: Episode 5
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E6: Episode 6
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E7: Hot Weeners!
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247718-s2e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 MobLand — S2E10: Episode 10
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e5@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E5: Episode 5
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E7: Episode 7
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e11@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E11: Episode 11
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-2190-s29e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 South Park — S29E6: Episode 6
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E7: Episode 7
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-84773-s3e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lord of the Rings: The Rings of Power — S3E8: Episode 8
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-273247-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Lowdown — S2E8: The Tower
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e6@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E6: Episode 6
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E8: Episode 8
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-208921-s2e12@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Rivals — S2E12: Episode 12
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-107113-s6e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Only Murders in the Building — S6E1: Episode 1
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e7@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E7: Episode 7
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-125935-s6e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Abbott Elementary — S6E9: Episode 9
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e8@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E8: Episode 8
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e9@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E9: Episode 9
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-248830-s2e10@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Stick — S2E10: Episode 10
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-79744-s9e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Rookie — S9E1: Episode 1
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-114461-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 Ahsoka — S2E1: Episode 1
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aevum-tmdb-show-247767-s2e1@ph-tv-calendar
-DTSTAMP:20261027T223003Z
+DTSTAMP:20261028T223005Z
 SUMMARY:🍿 The Studio — S2E1: TBA
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-LAST-MODIFIED:20261027T223003Z
+LAST-MODIFIED:20261028T223005Z
 TRANSP:TRANSPARENT
 DESCRIPTION:TBA
 END:VEVENT
